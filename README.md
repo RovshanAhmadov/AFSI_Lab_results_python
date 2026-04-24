@@ -1,4 +1,4 @@
-#This is my Lab cleaning and visualisation project at the Azerbaijan Food and Safety Institute in Google Colab
+<img width="1292" height="770" alt="image" src="https://github.com/user-attachments/assets/f8cdb7ac-8fc6-4849-a38e-c5b265104c2b" />#This is my Lab cleaning and visualisation project at the Azerbaijan Food and Safety Institute in Google Colab
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -38,8 +38,13 @@ plt.title("Müştəri Məmnuniyyəti – Rüblər üzrə müqayisə")
 plt.legend(loc="upper left", bbox_to_anchor=(1, 1))
 plt.grid(True, linestyle='--', linewidth=0.5, alpha=0.5)
 plt.tight_layout()
-
 plt.show()
+
+
+
+
+
+
 
 import pandas as pd
 import matplotlib.pyplot as plt
